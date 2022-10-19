@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Wandy Hanyudha",
+    "label": "Java Developer | UIN Syarif Hidayatullah Jakarta",
+    "picture": "https://hanyudha.github.io/images/wandy-300.png",
+    "email": "hanyudha@gmail.com",
+    "phone": "+6285710467516",
+    "website": "https://hanyudha.github.io",
+    "summary": "I am Java Developer at Universitas Islam Negeri Syarif Hidayatullah Jakarta. Eager to learn Java with Springboot, and now trying Vue JS for the FrontEnd.",
+    "location": { "address": "Jl. Raflesia No 80 Ciputat, South Tangerang", "postalCode": "15413", "city": "South Tangerang", "countryCode": "INA", "region": "Banten" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "hanyudha", "url": "http://github.com/hanyudha" },
+      { "network": "linkedin", "username": "Wandy Hanyudha", "url": "http://linkedin.com/in/wandy-hanyudha-8578b93b" },
+      { "network": "gitlab", "username": "wandy.hanyudha", "url": "https://gitlab.com/wandy.hanyudha" },
+      { "network": "instagram", "username": "wandy_hanyudha", "url": "https://www.instagram.com/wandy_hanyudha/" }
     ]
   },
   "interests": [
@@ -25,47 +25,75 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Spring Boot", "VueJS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Gitlab", "Intellij Idea", "Visual Studio" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Universitas Islam Negeri Syarif Hidayatullah Jakarta, Indonesia",
+      "area": "Information System",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2007",
+      "endDate": "2013",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "PT. Zahir Internasional",
+      "position": "Web Administrator",
+      "website": "https://zahiraccounting.com/",
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary": "Web Administrator",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Drive, design and build layout landing page for site"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "PT Media Televisi Indonesia (Metro TV)",
+      "position": "IT Support",
+      "website": "https://www.metrotvnews.com/",
+      "startDate": "2013",
+      "endDate": "2017",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "PT Media Televisi Indonesia (Metro TV)",
+      "position": "IT Infrastructure (Network Engineer)",
+      "website": "https://www.metrotvnews.com/",
+      "startDate": "2017",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Installing, configuring and supporting network equipment including routers, proxy servers, switches, WAN accelerators, DNS and DHCP",
+        "Monitoring computer systems to improve network performance for all systems",
+        "Investigating faults in the network",
+        "Updating network equipment to the latest firmware releases"
+      ]
+    },
+    {
+      "company": "Kementerian Agama - UIN Syarif Hidayatullah Jakarta",
+      "position": "Pranata Komputer Ahli Pertama | Java Developer",
+      "website": "https://www.uinjkt.ac.id/en/home/",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Create website layout/user interface by using standard HTML/CSS practices",
+        "Integrate data from various back-end services and databases",
+        "Create and maintain software documentation",
+        "Be responsible for maintaining, expanding, and scaling our site"
       ]
     }
   ],
