@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo_marifa.png
+image: img/project_img/marifa/logo_marifa.png
 title: Marifa
 permalink: projects/marifa
 # All dates must be YYYY-MM-DD format!

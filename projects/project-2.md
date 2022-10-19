@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hadits-square.png
+image: img/project_img/hadits_dictionary/hadits-square.png
 title: Hadits Dictionary
 permalink: projects/hadits
 # All dates must be YYYY-MM-DD format!
